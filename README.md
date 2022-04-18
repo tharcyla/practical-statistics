@@ -17,3 +17,4 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 - `08_Python-Probability-Practice.ipynb`
 - `10_Sampling-Distributions.ipynb`
 - `11_Confidence-Intervals.ipynb`
+- `12_Hypothesis-Testing.ipynb`
