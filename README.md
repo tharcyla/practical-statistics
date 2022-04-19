@@ -13,8 +13,9 @@ One of the courses in Udacity's [Data Analyst Nanodegree](https://www.udacity.co
 Each Jupyter Notebook in this repository contain my notes, quizzes answers, and practical case studies. 
 
 ### Files 
-- `03_Case-Study-Simpsons-Paradox.ipynb`
-- `08_Python-Probability-Practice.ipynb`
-- `10_Sampling-Distributions.ipynb`
-- `11_Confidence-Intervals.ipynb`
-- `12_Hypothesis-Testing.ipynb`
+- [Case Study: Simpson's Paradox](03_Case-Study-Simpsons-Paradox.ipynb)
+- [Python Probability Practice](08_Python-Probability-Practice.ipynb)
+- [Sampling Distributions](10_Sampling-Distributions.ipynb)
+- [Confidence Intervals](11_Confidence-Intervals.ipynb)
+- [Hypothesis Testing](12_Hypothesis-Testing.ipynb)
+- [Case Study: A/B Tests](13_Case-Study-AB-Tests.ipynb)
