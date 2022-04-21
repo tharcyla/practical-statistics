@@ -19,3 +19,4 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 - [Confidence Intervals](11_Confidence-Intervals.ipynb)
 - [Hypothesis Testing](12_Hypothesis-Testing.ipynb)
 - [Case Study: A/B Tests](13_Case-Study-AB-Tests.ipynb)
+- [Linear Regression](14_Regression.ipynb)
