@@ -21,3 +21,4 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 - [Case Study: A/B Tests](13_Case-Study-AB-Tests.ipynb)
 - [Linear Regression](14_Regression.ipynb)
 - [Multiple Linear Regression](15_Multiple-Linear-Regression.ipynb)
+- [Logistic Regression](16_Logistic-Regression.ipynb)
