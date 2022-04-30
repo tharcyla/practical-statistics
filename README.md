@@ -2,7 +2,7 @@
 April 06, 2022
 
 ### End Date
-Still ongoing
+April 26, 2022
 
 ### Project Title
 Practical Statistics Course Notes
